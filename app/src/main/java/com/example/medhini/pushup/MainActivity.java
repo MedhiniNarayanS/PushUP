@@ -1,5 +1,6 @@
 package com.example.medhini.pushup;
 
+import android.os.StrictMode;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
@@ -21,5 +22,6 @@ public class MainActivity extends AppCompatActivity {
     }
     private void multiply(){
         int a = 5 * 2;
+        String test = "Test";
     }
 }
