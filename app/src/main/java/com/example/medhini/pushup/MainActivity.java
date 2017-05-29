@@ -19,4 +19,7 @@ public class MainActivity extends AppCompatActivity {
         int ii = 1+2;
         int iii = 1+3;
     }
+    private void multiply(){
+        int a = 5 * 2;
+    }
 }
